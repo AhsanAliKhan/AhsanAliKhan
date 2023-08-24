@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header-gif.gif" align="center" width="1280" height="280"/>
+<img src="header-gif.gif" align="center" width="1280" height="350"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahsan Ali Khan</h1>
