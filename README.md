@@ -17,7 +17,7 @@
 
 - 📝 Design Portfolio [Behance](https://www.behance.net/bitzstudiolhr)
 
-- 👨‍💻 All of my projects are available at [https://bitzstudio.com/](https://bitzstudio.com/)
+- 👨‍💻 All of my projects are available at [https://bitzstudio.com/](https://bitzstudio.com)
 
 - 💬 Ask me about anything related to **PHP,Laravel,Wordpress,Shopify and UI/UX Design**
 
