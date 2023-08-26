@@ -1,6 +1,4 @@
-<div align="center">
-<img src="header-gif.gif" align="center" width="1280" height="350"/>
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ahsan Ali Khan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
