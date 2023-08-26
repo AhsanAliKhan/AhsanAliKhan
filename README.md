@@ -7,13 +7,14 @@ As a seasoned web developer, I excel at crafting dynamic and efficient web solut
 
 
  <p align="left">
-      <a href="https://www.linkedin.com/in/php-wordpress-expert/">
-         <img alt="LinkedIn" title="Follow Me" src="linkedin.png"/></a> 
-     <img src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanalikhan" />
+     
+<a href="[https://github.com/AhsanAliKhan?tab=followers](https://www.linkedin.com/in/php-wordpress-expert/)">
+         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AhsanAliKhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+              <img src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanalikhan" />
    </p>
 
 - 🔭 I’m currently working at [Bitz Studio](https://bitzstudio.com/)
