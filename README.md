@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali Khan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanalikhan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/bitzstudio" target="blank"><img src="https://img.shields.io/twitter/follow/bitzstudio?logo=twitter&style=for-the-badge" alt="bitzstudio" /></a> </p>
+I'm a seasoned web developer with a wealth of experience in crafting dynamic and efficient web solutions. Specializing in PHP, his proficiency extends to renowned frameworks including Laravel and CodeIgniter, where he demonstrates an adeptness in building robust applications with elegant code structures. Ahsan's expertise also encompasses WordPress, allowing him to create customizable and user-friendly websites that seamlessly merge form with function. With a keen eye for detail and a passion for staying updated with the latest industry trends, Ahsan Ali Khan consistently delivers high-quality, tailor-made web experiences that cater to diverse client needs.
 
 - 🔭 I’m currently working at [Bitz Studio](https://bitzstudio.com/)
 
@@ -18,6 +16,11 @@
 - 💬 Ask me about anything related to **PHP,Laravel,Wordpress,Shopify and UI/UX Design**
 
 - 📫 Reach me out **ahsanalikhan18@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanalikhan" /> </p>
+
+<p align="left"> <a href="https://twitter.com/bitzstudio" target="blank"><img src="https://img.shields.io/twitter/follow/bitzstudio?logo=twitter&style=for-the-badge" alt="bitzstudio" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
