@@ -9,7 +9,7 @@ As a seasoned web developer, I excel at crafting dynamic and efficient web solut
  <p align="left">
      
 <a href="[https://github.com/AhsanAliKhan?tab=followers](https://www.linkedin.com/in/php-wordpress-expert/)">
-         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=#0A66C2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=0A66C2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
