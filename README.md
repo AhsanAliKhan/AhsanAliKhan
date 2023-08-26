@@ -3,7 +3,19 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali Khan</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-I'm a seasoned web developer with a wealth of experience in crafting dynamic and efficient web solutions. Specializing in PHP, his proficiency extends to renowned frameworks including Laravel and CodeIgniter, where he demonstrates an adeptness in building robust applications with elegant code structures. Ahsan's expertise also encompasses WordPress, allowing him to create customizable and user-friendly websites that seamlessly merge form with function. With a keen eye for detail and a passion for staying updated with the latest industry trends, Ahsan Ali Khan consistently delivers high-quality, tailor-made web experiences that cater to diverse client needs.
+As a seasoned web developer, I excel at crafting dynamic and efficient web solutions. My proficiency in PHP extends to Laravel and CodeIgniter frameworks, allowing me to build robust applications with elegant code structures. My expertise in WordPress enables me to create customizable and user-friendly websites that merge form and function seamlessly. With a keen eye for detail and a passion for staying updated with the latest industry trends, I consistently deliver high-quality, tailor-made web experiences that cater to diverse client needs. life with confidence and expertise.
+
+
+ <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/AhsanAliKhan?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AhsanAliKhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 - 🔭 I’m currently working at [Bitz Studio](https://bitzstudio.com/)
 
