@@ -12,7 +12,6 @@ As a seasoned web developer, I excel at crafting dynamic and efficient web solut
   
 <a href="https://www.linkedin.com/in/php-wordpress-expert">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/AhsanAliKhan?color=0A66C2&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on LinkedIn&logoColor=white"/></a>
-         <img alt="followers" title="Contact Me" src="https://custom-icon-badges.demolab.com/badge/ahsanalikhan18@gmail.com?style=for-the-badge&logo=mention&logoColor=white"/></a>
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AhsanAliKhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
               <img alt="total views" title="Total views on GitHub" src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=488207&logo=star"  />
