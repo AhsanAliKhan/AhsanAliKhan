@@ -15,7 +15,7 @@ As a seasoned web developer, I excel at crafting dynamic and efficient web solut
       <a href="https://github.com/AhsanAliKhan?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AhsanAliKhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
               <img alt="total views" title="Total views on GitHub" src="https://komarev.com/ghpvc/?username=ahsanalikhan&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=488207&logo=star"  />
-              <a href="https://twitter.com/bitzstudio" target="blank"><img src="https://img.shields.io/twitter/follow/bitzstudio?logo=twitter&style=for-the-badge" alt="bitzstudio" /></a>
+              <a href="https://twitter.com/ahsanalikhan18" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanalikhan?logo=twitter&style=for-the-badge" alt="Ahsan Ali Khan" /></a>
    </p>
 
 ---
